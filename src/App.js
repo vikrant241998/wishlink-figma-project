@@ -1,15 +1,17 @@
 import './App.css';
 import Navbar from './Components/Navbar';
+import TriggedCard from './Components/TriggedCard';
 import Video from './Components/Video';
-// import VideoCardOne from './Components/VideoCard-1';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
+      <div className="container">
       <Navbar />
       <Video />
-    {/* <VideoCardOne /> */}
+      <TriggedCard />
     </div>
+        </div>  
 
   );
 }

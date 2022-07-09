@@ -6,11 +6,15 @@
 
 .nav-container{
     width: 400px;
-    border: 1px solid;
+    /* border: 1px solid; */
     margin: 10px  auto;
     display: flex;
     align-items: center;
     justify-content: space-around;
+
+
+    position: fixed;
+    z-index: 50;
 }
 
 .nav-container .fa-arrow-left{

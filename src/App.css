@@ -1,0 +1,14 @@
+.App {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    /* border: 2px solid red; */
+}
+.container {
+    height: 100vh;
+    max-width: 400px;
+    width: 80%;
+    background-color: white;
+    /* border: 2px solid red; */
+    }

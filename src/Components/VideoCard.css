@@ -105,7 +105,7 @@
 	line-height: 50px;
 	color: #fff;
 	transform: translateX(100%);
-	animation: scrolling 35s linear infinite;
+	animation: scrolling 25s linear infinite;
 }
 @keyframes scrolling {
 	0% {
@@ -139,45 +139,42 @@
 }
 
 .card-container{
-    width: 215px;
+    width: 195px;
     height: 60px;
     background-color: white;
     margin: auto;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     border-radius: 10px;
     line-height: 1;
     text-align: left;
 }
 
 .card-container img{
-    width: 37px;
+    width: 26px;
     margin-left: 2px;
 }
 
 .cardBtn{
-    width: 50px;
-    height: 25px;
+    width: 45px;
+    height: 20px;
     background-color: black;
-    border-radius: 10px;
+    border-radius: 8px;
     cursor: pointer;
     margin-right: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .cardBtn a{
     color: white;
     list-style: none;
-    font-size: 10px;
+    font-size: 9px;
     text-decoration: none;
+    letter-spacing: 2px;
 } 
-/* 
-.card-text{
-     display: flex;
-    flex-direction: column;
-    border: 1px solid green;
-} */
-
 
 .card-text .one{
     font-size: 13px;
@@ -213,6 +210,6 @@
 
 }
 .card-text .five{
-    font-size: 10px;
+    font-size: 9px;
     color: orange;
 }

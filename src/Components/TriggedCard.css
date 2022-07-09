@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.T-container{
+    width: 400px;
+    height: 50vh;
+    margin: auto;
+    border: 1px solid #fffdfd;
+    margin-top: 5px;
+    border-radius: 10px;
+    position: relative;
+    bottom: -39.9rem;
+    z-index: 2000;
+    background-color: #f6f6f6;
+}
+
+.T-heading h1{
+    font-size: 1.5rem;
+    margin-left: 37px;
+    margin-top: 16px;
+    font-family: inherit;
+}
+
+.T-box{
+    width: 360px;
+    height: 42vh;
+    margin: auto;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.T-card {
+    width: 150px;
+    height: 300px;
+    border: 1px solid;
+}
+
+.T-card img{
+    width: 145px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin: auto;
+}
+
+.T-offer{
+    width: 96px;
+    font-size: 10px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: #e91e63;
+    color: white;
+    box-shadow: 2px 2px 1px black;
+    border: none;
+    position: relative;
+    top: -160px;
+    left: -8px;   
+}
+
+.T-olay{
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: -10px;
+    margin-left: 5px;
+}
+
+.T-para1{
+    font-size: 10px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.T-para2{
+    font-size: 10px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.spanone .fa-inr{
+    font-size: 10px;
+    margin-left: 5px;
+    letter-spacing: 3px;
+}
+.spanone del{
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.T-off{
+    font-size: 10px;
+    color: orange;
+}
+
+.spantwo .fa{
+    font-size: 10px;
+    margin-left: 5px;
+    letter-spacing: 3px;
+}
+
+.T-off2{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+.btn{
+    width: 110px;
+    height: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    border-radius: 15px;
+    background-color: black;
+}
+
+.btn:hover{
+    box-shadow: 2px 2px 1px rgb(60, 241, 60);
+    transition: ease-in-out 0.5s;
+}
+
+.btn a{
+    color: white;
+    text-decoration: none;
+}
