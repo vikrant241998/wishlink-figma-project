@@ -1,0 +1,218 @@
+/* .card-handler{
+    width: 450px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    position: relative;
+    bottom: 11rem;
+   
+} */
+
+/* .card-container{
+    width: 240px;
+    height: 75px;
+    background-color: rgb(189, 5, 5);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+} */
+
+/* .card-container img{
+    width: 37px;
+    margin-left: 2px;
+} */
+
+/* .cardBtn{
+    width: 60px;
+    height: 25px;
+    background-color: black;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-right: 2px;
+} */
+
+/* .cardBtn a{
+    color: white;
+    list-style: none;
+    font-size: 10px;
+    text-decoration: none;
+} */
+
+/* .card-text{
+     display: flex;
+    flex-direction: column;
+    border: 1px solid green;
+} */
+
+/* .card-text .one{
+    font-size: 15px;
+    font-weight: 600;
+} */
+
+/* .card-text .two{
+    font-size: 13px;
+}
+ */
+
+/* .card-text .three{
+    font-size: 12px;
+    font-weight: 500;
+} */
+
+/* .fa-inr{
+    font-size: 12px;
+} */
+
+/* .card-text .four{
+    font-size: 12px;
+    font-weight: 500;
+} */
+
+/* .card-text .five{
+    font-size: 12px;
+    color: orange;
+} */
+
+
+/* ======================================== */
+.scrolling {
+    margin: auto;
+	position: relative;
+    bottom: 9rem;
+	width: 450px;
+	height: 80px;
+	overflow: hidden;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+
+.scrolling .box-container {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	text-align: center;
+	line-height: 50px;
+	color: #fff;
+	transform: translateX(100%);
+	animation: scrolling 35s linear infinite;
+}
+@keyframes scrolling {
+	0% {
+		transform: translateX(100%);
+	}
+	100% {
+		transform: translateX(-100%);
+	}
+}
+
+
+
+.box-container{
+    /* width: 1650px;
+    height: 100%; */
+    /* border: 1px solid rgb(9, 1, 255); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    color: red;
+    width: 100px;
+    height: 60px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px;
+}
+
+.card-container{
+    width: 215px;
+    height: 60px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    line-height: 1;
+    text-align: left;
+}
+
+.card-container img{
+    width: 37px;
+    margin-left: 2px;
+}
+
+.cardBtn{
+    width: 50px;
+    height: 25px;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 2px;
+}
+
+.cardBtn a{
+    color: white;
+    list-style: none;
+    font-size: 10px;
+    text-decoration: none;
+} 
+/* 
+.card-text{
+     display: flex;
+    flex-direction: column;
+    border: 1px solid green;
+} */
+
+
+.card-text .one{
+    font-size: 13px;
+    font-weight: 500;
+    color: black;
+}
+
+.card-text .two{
+    font-size: 11px;
+    color: black;
+}
+
+
+.card-text .three{
+    font-size: 11px;
+    font-weight: 500;
+    color: black;
+}
+
+.fa-inr{
+    font-size: 11px;
+    color: black;
+}
+
+.card-text .four{
+    font-size: 11px;
+    font-weight: 500;
+    color: black;
+}
+
+.card-text .four del{
+    color: black;
+
+}
+.card-text .five{
+    font-size: 10px;
+    color: orange;
+}
