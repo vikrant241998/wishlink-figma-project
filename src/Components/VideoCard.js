@@ -13,7 +13,7 @@ export default function VideoCard() {
         <p className='two'> &nbsp;Long red slit dress</p>
         <span className='three'> &nbsp;<i className="fa fa-inr" aria-hidden="true"></i>1,600</span> 
         <span className='four'> <del> <i className="fa fa-inr" aria-hidden="true"></i>2000</del></span> &nbsp;
-        <span className='five'>(20% OFF)</span>        
+        {/* <span className='five'>(20% OFF)</span>         */}
       </div>
       <button className='cardBtn'><a href="https://www.google.com/" target="_blank">Shop</a></button>
     </div>
@@ -26,7 +26,7 @@ export default function VideoCard() {
         <p className='two'> &nbsp;Long red slit dress</p>
         <span className='three'> &nbsp;<i className="fa fa-inr" aria-hidden="true"></i>1,600</span> 
         <span className='four'> <del> <i className="fa fa-inr" aria-hidden="true"></i>2000</del></span> &nbsp;
-        <span className='five'>(20% OFF)</span>        
+        {/* <span className='five'>(20% OFF)</span>         */}
       </div>
       <button className='cardBtn'><a href="#">Shop</a></button>
     </div>
