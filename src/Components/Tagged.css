@@ -9,6 +9,8 @@
   z-index: 2000;
   width: 400px;
     border: 2px solid #f1f4f9;
+
+    margin-bottom: -32rem;
   }
   .head1 {
     font-size: 21px;

@@ -1,6 +1,7 @@
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Tagged from "./Components/Tagged";
+import CompleteMyLook from "./Components/CompleteMyLook";
 import Video from "./Components/Video";
 
 function App() {
@@ -10,7 +11,9 @@ function App() {
         <Navbar />
         <Video />
         <Tagged productname={"Tagged Products(2)"} productCount={2}/>
-        {/* <Tagged productname={"Tagged Products(3)"} productCount={3}/> */}
+         {/* <Tagged productname={"Complete my look"} productCount={3}/>  */}
+        <CompleteMyLook productname={"Complete my look"} productCount={3}/>
+        {/* <CompleteMyLook /> */}
       </div>
     </div>
   );

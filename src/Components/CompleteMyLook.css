@@ -1,0 +1,30 @@
+.MylookContainer {
+  width: 400px;
+  position: relative;
+  top: 150px;
+  margin-top: 33.5rem;
+  height: 100vh;
+  border-radius: 17px;
+  z-index: 2000;
+  box-shadow: -7px, black;
+  border: 2px solid #f1f4f9;
+  margin-bottom: -32rem;
+  background: #f1f4f9;
+} 
+
+
+.heading {
+  font-size: 21px;
+  font-weight: 700;
+  margin-left: 50px;
+  margin-top: 27px;
+  line-height: 25px;
+}
+
+
+.MylookBox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap:wrap 
+}
