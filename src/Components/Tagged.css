@@ -6,8 +6,8 @@
     background: #f1f4f9;
     box-shadow: -7px, black;
     position: relative;
-    box-shadow: 0px -10px white;
-    top: 22px;
+    /* box-shadow: 0px -10px white; */
+    top: 150px;
     z-index: 2000;
     width: 400px;
     border: 2px solid #f1f4f9;
