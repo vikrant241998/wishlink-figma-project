@@ -1,0 +1,25 @@
+.taggedcontainer {
+    /* border: 3px solid rgb(0, 0, 0);  */
+    margin-top: 545px;
+    height: 62vh;
+    border-radius: 17px;
+    background: #f1f4f9;
+    box-shadow: -7px, black;
+    position: relative;
+    box-shadow: 0px -10px white;
+    top: 22px;
+    z-index: 2000;
+    width: 400px;
+    border: 2px solid #f1f4f9;
+    /* scroll-snap-align: start  */
+  }
+  .head1 {
+    font-size: 21px;
+    font-weight: 700;
+    margin-left: 22px;
+    margin-top: 27px;
+    line-height: 25px;
+  }
+  .cardcontainer {
+    display: flex;
+  }

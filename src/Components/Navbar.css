@@ -6,7 +6,7 @@
 
 .nav-container{
     width: 400px;
-    /* border: 1px solid; */
+    border: 1px solid;
     margin: 10px  auto;
     display: flex;
     align-items: center;
