@@ -1,6 +1,6 @@
 .taggedcontainer {
   margin-top: 33.5rem;
-  height: 60vh;
+  height: 66vh;
   border-radius: 17px;
   background: #f1f4f9;
   box-shadow: -7px, black;
@@ -21,10 +21,10 @@
   }
   .cardcontainer {
     display: flex;
-
-
-
-    display: flex;
     justify-content: center;
     align-items: center;
+    background-color: white;
+    height: 56.4vh;   
+    border-radius: 10px;
+    margin-top: 10px;
   }

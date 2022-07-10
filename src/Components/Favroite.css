@@ -1,0 +1,91 @@
+.fav-container{
+    width: 400px;
+    height: 75rem;
+    position: relative;
+    top: 43rem;
+    z-index: 2000;
+    background-color: #f1f4f9;;
+    border-radius: 10px;
+}
+
+.header-box{
+    width: 400px;
+    margin: auto;
+    background-color: #f1f4f9;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.header{
+    font-size: 15px;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.para{
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-weight: 400;
+}
+
+ 
+.row{
+    width: 390px;
+    display: flex;
+    justify-content: center;
+    background-color: #f1f4f9;
+    margin-left: 5px;
+}
+
+.column img{
+    width: 100%;
+    padding: 8px 5px;
+    border-radius: 10px;
+}
+
+
+.fav-button{
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem auto;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.fav-button{
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto;
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+}
+
+.fav-button a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    letter-spacing: 1px;
+}
+
+
+.fav-para{
+    display: flex;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem auto;
+    font-size: 15px;
+    letter-spacing: 1.4px;
+    font-weight: 400;
+}
