@@ -1,17 +1,14 @@
-.taggedcontainer {
-    /* border: 3px solid rgb(0, 0, 0);  */
+/* .taggedcontainer {
     margin-top: 545px;
     height: 62vh;
     border-radius: 17px;
     background: #f1f4f9;
     box-shadow: -7px, black;
     position: relative;
-    /* box-shadow: 0px -10px white; */
     top: 150px;
     z-index: 2000;
     width: 400px;
     border: 2px solid #f1f4f9;
-    /* scroll-snap-align: start  */
   }
   .head1 {
     font-size: 21px;
@@ -22,4 +19,4 @@
   }
   .cardcontainer {
     display: flex;
-  }
+  } */
