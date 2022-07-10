@@ -5,7 +5,7 @@
 }
 
 .T-container{
-    width: 390px;
+    width: 400px;
     height: 50vh;
     margin: auto;
     border: 1px solid #fffdfd;
@@ -13,7 +13,7 @@
     border-radius: 10px;
     position: relative;
     /* bottom: -39.9rem; */
-    bottom: -52rem;
+    bottom: -54rem;
     z-index: 2000;
     background-color: #f6f6f6;
 }
