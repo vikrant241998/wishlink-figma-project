@@ -17,19 +17,19 @@ export default function Cards() {
        */}
 
 
-
-    {/* <div className="taggedCard">
+    <div className="taggedCard">
+            <div className="tag-offer">% Offer Available</div>
             <img src={cardimg} alt="" />
             <h2>Olay</h2>
-            <p>Olay White Radiance Creame</p>
-            <p>₹ 1000  <del>₹ 2000</del></p>
-
-            <p className='taggedoff'>(50% OFF)</p>
-
-            <button className='taggedbtn'>
+            <p className='paraone'>Olay White Radiance </p>
+            <p className='paraone'>Creame </p>
+            <p className='paratwo'>₹ <del>2500</del>
+            <span className="off">(20% OFF)</span>
+            </p>
+            <button className='cardbtn'>
                 {" "} <a href="#" target="_blank">Shop Now</a>
             </button>
-        </div> */}
+        </div>
     </div> 
   )
 }
