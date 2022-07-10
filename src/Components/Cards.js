@@ -18,7 +18,7 @@ export default function Cards() {
 
 
 
- {/* <div className="taggedCard">
+    {/* <div className="taggedCard">
             <img src={cardimg} alt="" />
             <h2>Olay</h2>
             <p>Olay White Radiance Creame</p>
@@ -29,7 +29,7 @@ export default function Cards() {
             <button className='taggedbtn'>
                 {" "} <a href="#" target="_blank">Shop Now</a>
             </button>
-        </div>*/} 
+        </div> */}
     </div> 
   )
 }

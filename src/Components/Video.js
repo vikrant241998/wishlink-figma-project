@@ -24,7 +24,6 @@ export default function Video() {
         <div className="video-comtainer">
         
         <video className='video-set' onClick={videoPress} controls poster={cover}> 
-        {/* <video className='video-set'>  */}
         <source  className='video-set' controls  src="https://d3g01po1nkka75.cloudfront.net/Rashi160622.mp4" type="video/mp4"/> 
         </video>
 
@@ -44,7 +43,3 @@ export default function Video() {
     </div>
   )
 }
-
-
-{/* <h2>Shop My Closet</h2> */}
-{/* <VideoCard /> */}

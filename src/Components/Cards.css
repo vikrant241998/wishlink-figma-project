@@ -64,7 +64,8 @@
   text-decoration: none;
   color: white;
 } */
-/* 
+
+
 .taggedCard {
   margin: 3px;
   padding: 9px;
@@ -76,8 +77,9 @@
     background: white;
     margin-top: 9px;
     border-radius: 16px;
-    margin-left: 10px;
+    margin-left: 10px; 
   }
+ 
   .taggedbtn {
     position: relative;
     background: #021927;
@@ -98,4 +100,4 @@
     top: -20px;
     left: 85px;
     font-size: 11px;
-  } */
+  }

@@ -13,6 +13,8 @@ export default function Navbar() {
         </div>
         <i className="fa fa-search" aria-hidden="true"></i>
         </div>
+
+
     </div>
   )
 }
