@@ -37,17 +37,17 @@
 
 .video-comtainer .fa-play{
     position: absolute;
-    top: 46%;
+    top: 37%;
     right: 11.5rem;
     z-index: 2;
-    font-size: 1.5rem;
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
+    font-size: 1rem;
+    /* width: 45px; */
+    /* height: 45px; */
+    /* border-radius: 50%; */
     display: flex;
     justify-content: center;
     align-items: center;
-    background: white;
+    /* background: white; */
     color: black;
     border: none;
 }
