@@ -6,9 +6,8 @@
 
 .video-comtainer{
     width: 400px;
-    height: 80vh;
+    height: 100vh;
     margin: auto;
-    margin-top: -10px;
     border: 2px solid rgb(13, 214, 137);
     position: fixed;
     margin-top: 83px;
