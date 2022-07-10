@@ -5,6 +5,10 @@
 }
 
 .video-comtainer{
+
+    max-height: 80%;
+
+
     width: 400px;
     height: 100vh;
     margin: auto;
