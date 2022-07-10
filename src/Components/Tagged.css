@@ -1,8 +1,9 @@
 .taggedcontainer {
   margin-top: 33.5rem;
-  height: 50vh;
+  height: 60vh;
   border-radius: 17px;
-  background: #f1f4f9;
+  /* background: #f1f4f9; */
+  background: red;
   box-shadow: -7px, black;
   position: relative;
   top: 150px;
