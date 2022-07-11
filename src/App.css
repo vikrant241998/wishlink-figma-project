@@ -12,5 +12,15 @@
     max-width: 400px;
     width: 100%;
     background-color: white; 
-    /* border: 2px solid blue; */
+    border: 2px solid blue;
+    }
+
+    @media only screen and (max-width: 350px) {
+        .container {
+            height: 100vh;
+            max-width: 380px;
+            width: 100%;
+            background-color: red; 
+            border: 2px solid green;
+            }
     }

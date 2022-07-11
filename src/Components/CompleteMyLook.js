@@ -4,8 +4,7 @@ import MylookCard from "./MylookCard"
 
 export default function CompleteMyLook({ productCount, productname }) {
   return (
-    <>
-    
+    <>    
         <div className="MylookContainer">
             <div className="heading">{productname}</div>
             <div className="MylookBox">

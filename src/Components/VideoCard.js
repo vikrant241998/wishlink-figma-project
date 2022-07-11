@@ -3,7 +3,7 @@ import "./VideoCard.css";
 export default function VideoCard() {
   return (
     <div>
-      {/* <div className="scrolling">
+      <div className="scrolling">
       
         <div className="box-container">
         <div className="card-container">
@@ -32,7 +32,7 @@ export default function VideoCard() {
     </div>
 
         </div>
-      </div> */}
+      </div>
    
       
       

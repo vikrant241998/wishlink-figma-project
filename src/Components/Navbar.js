@@ -9,12 +9,9 @@ export default function Navbar() {
             <img src="./images/profile.png" alt="profile-image" />
             <h2>Maitreyi Dutta</h2>
             <img src="./images/verified.png" alt="verifi image" />
-
         </div>
         <i className="fa fa-search" aria-hidden="true"></i>
         </div>
-
-
     </div>
   )
 }
