@@ -89,3 +89,24 @@
     letter-spacing: 1.4px;
     font-weight: 400;
 }
+
+
+.row-button{
+    width: 113px;
+    height: 15px;
+    position: relative;
+    bottom: 30px;
+    left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.row-button img{
+    width: 30px;
+}
+
+.row-button span{
+    font-size: 10px;
+}

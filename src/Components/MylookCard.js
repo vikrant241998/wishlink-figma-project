@@ -18,7 +18,7 @@ export default function MylookCard() {
             <p className='parathree'>₹ 2,000</p>
 
             <button className='cardbtn'>
-                {" "} <a href="#" target="_blank">Shop Now</a>
+                {" "} <a href="https://home.wishlink.com/" target="_blank">Shop Now</a>
             </button>
         </div>
         </>
