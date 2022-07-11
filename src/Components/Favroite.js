@@ -22,7 +22,7 @@ export default function Favroite() {
                       <div className="row-button">
                         <img src={imgBtn} alt="" />
                           <span>Summer OOTD</span>
-                    </div>  
+                    </div>
 
                     <img className="two" src={dress} alt="" />
                     <div className="row-button">
